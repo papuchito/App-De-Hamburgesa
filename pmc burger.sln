@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pmc burger", "pmc burger\pmc burger.csproj", "{1AA8CCEF-53C4-4398-A4CD-90CEDA6DB35B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pmc burger principal", "inicio nuevo\pmc burger principal.csproj", "{31E7D61F-A66F-4F0B-A685-6078E1DECBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA8CCEF-53C4-4398-A4CD-90CEDA6DB35B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA8CCEF-53C4-4398-A4CD-90CEDA6DB35B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA8CCEF-53C4-4398-A4CD-90CEDA6DB35B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA8CCEF-53C4-4398-A4CD-90CEDA6DB35B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E7D61F-A66F-4F0B-A685-6078E1DECBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E7D61F-A66F-4F0B-A685-6078E1DECBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E7D61F-A66F-4F0B-A685-6078E1DECBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E7D61F-A66F-4F0B-A685-6078E1DECBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {505FD61D-B722-4820-B27A-3CBCF57B45B9}
+	EndGlobalSection
+EndGlobal
